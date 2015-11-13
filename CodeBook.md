@@ -13,12 +13,19 @@ All other columns are named using the following naming convention: measurement_s
 Possible suffixes:
 
 mean - The mean of the measurements' mean values
+
 std - The mean of the measurements' standard deviation values
+
 mean_X - The mean of the measurements' X axis mean values
+
 mean_Y - The mean of the measurements' Y axis mean values
+
 mean_Z - The mean of the measurements' Z axis mean values
+
 std_X - The mean of the measurements' standard deviation of X axis values
+
 std_Y - The mean of the measurements' standard deviation of y axis values
+
 std_Z - The mean of the measurements' standard deviation of z axis values
 
 Data Sources
