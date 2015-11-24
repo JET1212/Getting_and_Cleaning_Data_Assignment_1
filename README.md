@@ -15,5 +15,5 @@ Values from columns containing the phrases "std()" and "mean()" are extracted an
 
 The test and train datasets are then merged. Averages are calculated for each column in the merged dataset using the SQLDF package.
 
-The merged dataset is written into the "tidydataset.text" file.
+The merged dataset is written into the "tidydataset.txt" file.
 
